@@ -1,5 +1,7 @@
-# Gatling Computer Database
+# Gatling Beginners Tutorial
 
-The code is in this repository supports the Gatling Open-Source and Gatling FrontLine beginners tutorial courses.
+**Course & support code is currently under construction**
 
-Courses can be found for free on [YouTube](https://youtube.com)
+The code is in this repository contains a Gatling script to test the [Gatling Computer Database](https://computer-database.gatling.io/computers), and supports the Gatling Open-Source and Gatling FrontLine beginners tutorial courses.
+
+Courses can be found for free on the [Gatling YouTube](https://www.youtube.com/channel/UCaNih6sKuJ9DIMjTEW1EAlQ) channel
